@@ -1,0 +1,13 @@
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\bin\Debug\netcoreapp3.1\6426-1822.exe
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\bin\Debug\netcoreapp3.1\6426-1822.deps.json
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\bin\Debug\netcoreapp3.1\6426-1822.runtimeconfig.json
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\bin\Debug\netcoreapp3.1\6426-1822.runtimeconfig.dev.json
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\bin\Debug\netcoreapp3.1\6426-1822.dll
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\bin\Debug\netcoreapp3.1\6426-1822.pdb
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.csprojAssemblyReference.cache
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.AssemblyInfoInputs.cache
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.AssemblyInfo.cs
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.csproj.CoreCompileInputs.cache
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.dll
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.pdb
+C:\Users\jschollitt\source\repos\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.genruntimeconfig.cache
