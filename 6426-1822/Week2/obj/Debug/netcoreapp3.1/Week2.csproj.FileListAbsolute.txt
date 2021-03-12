@@ -1,0 +1,13 @@
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\bin\Debug\netcoreapp3.1\Week2.exe
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\bin\Debug\netcoreapp3.1\Week2.deps.json
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\bin\Debug\netcoreapp3.1\Week2.runtimeconfig.json
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\bin\Debug\netcoreapp3.1\Week2.runtimeconfig.dev.json
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\bin\Debug\netcoreapp3.1\Week2.dll
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\bin\Debug\netcoreapp3.1\Week2.pdb
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\obj\Debug\netcoreapp3.1\Week2.csprojAssemblyReference.cache
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\obj\Debug\netcoreapp3.1\Week2.AssemblyInfoInputs.cache
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\obj\Debug\netcoreapp3.1\Week2.AssemblyInfo.cs
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\obj\Debug\netcoreapp3.1\Week2.csproj.CoreCompileInputs.cache
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\obj\Debug\netcoreapp3.1\Week2.dll
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\obj\Debug\netcoreapp3.1\Week2.pdb
+C:\Users\jscho\Documents\GitHub\6426-1822\6426-1822\Week2\obj\Debug\netcoreapp3.1\Week2.genruntimeconfig.cache
