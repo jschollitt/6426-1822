@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\6426-1822\\6426-1822.csproj",
-      "projectName": "6426-1822",
-      "projectPath": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\6426-1822\\6426-1822.csproj",
+      "projectUniqueName": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\Week3.csproj",
+      "projectName": "Week3",
+      "projectPath": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\Week3.csproj",
       "packagesPath": "C:\\Users\\jschollitt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\6426-1822\\obj\\",
+      "outputPath": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jschollitt\\AppData\\Roaming\\NuGet\\NuGet.Config",
