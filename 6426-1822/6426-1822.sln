@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week2", "Week2\Week2.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week3", "Week3\Week3.csproj", "{A5534C78-0C46-43ED-97DE-0693503939CF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week4", "ConsoleApp1\Week4.csproj", "{B7B3310B-AA36-4466-A8BD-CA5B9625419B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week4", "Week4\Week4.csproj", "{B7B3310B-AA36-4466-A8BD-CA5B9625419B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
