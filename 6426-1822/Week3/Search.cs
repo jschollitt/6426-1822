@@ -69,7 +69,6 @@ namespace Week3
             return ArrayRecursiveLinearSearch(array, index + 1, value);
         }
 
-        
         public static int ArrayRecursiveBinarySearch(int[] array, int high, int low, int value)
         {
             if (high >= low)
