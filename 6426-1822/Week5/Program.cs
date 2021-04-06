@@ -6,7 +6,18 @@ namespace Week5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Stack stack = new Stack(20, new int[] { 1, 2, 3 });
+            Console.WriteLine(stack.ToString());
+            stack.push(4);
+            stack.push(5);
+            stack.push(6);
+            Console.WriteLine(stack.ToString());
+            stack.pop();
+            Console.WriteLine(stack.ToString());
+            stack.pop();
+            Console.WriteLine(stack.ToString());
+            stack.delete();
+            Console.WriteLine(stack.ToString());
         }
     }
 }
