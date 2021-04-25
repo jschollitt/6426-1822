@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tTtW+tPMTjgOofOEpxbsDoRsmzEtTedy15cncEjviLlZ7jQ/Yt2Ob9/p1NTMxZdNgxuKlwy7AG0iDy01UwDpGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-1\\sfml-list-example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jscho\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\jscho\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\jscho\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\jscho\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\jscho\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\jscho\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
