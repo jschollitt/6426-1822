@@ -444,24 +444,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jscho\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\jschollitt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-1\\sfml-list-example.csproj",
+      "projectUniqueName": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-1\\sfml-list-example.csproj",
       "projectName": "sfml-list-example",
-      "projectPath": "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-1\\sfml-list-example.csproj",
-      "packagesPath": "C:\\Users\\jscho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-1\\obj\\",
+      "projectPath": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-1\\sfml-list-example.csproj",
+      "packagesPath": "C:\\Users\\jschollitt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jscho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\jschollitt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

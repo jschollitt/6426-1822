@@ -35,5 +35,29 @@ namespace Week3
             }
         }
 
+        public Node searchNode(int v)
+        {
+            Node trav = head;
+
+            while (trav != null)
+            {
+                // check values
+                if (trav.value == v)
+                    return trav;
+                // traverse
+                trav = trav.next;
+            }
+            return null;
+        }
+
+        public void DeleteTemp()
+        {
+            Node trav = this.head;
+            Node trailingtrav = this.head;
+
+            trailingtrav = trav;
+            trav = trav.next;
+
+        }
     }
 }

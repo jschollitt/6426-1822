@@ -23,3 +23,16 @@ C:\Users\jschollitt\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\64
 C:\Users\jschollitt\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.dll
 C:\Users\jschollitt\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.pdb
 C:\Users\jschollitt\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.genruntimeconfig.cache
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\bin\Debug\netcoreapp3.1\6426-1822.exe
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\bin\Debug\netcoreapp3.1\6426-1822.deps.json
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\bin\Debug\netcoreapp3.1\6426-1822.runtimeconfig.json
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\bin\Debug\netcoreapp3.1\6426-1822.runtimeconfig.dev.json
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\bin\Debug\netcoreapp3.1\6426-1822.dll
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\bin\Debug\netcoreapp3.1\6426-1822.pdb
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.csprojAssemblyReference.cache
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.AssemblyInfoInputs.cache
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.AssemblyInfo.cs
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.csproj.CoreCompileInputs.cache
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.dll
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.pdb
+C:\Users\jscho\OneDrive - Unitec NZ\Documents\GitHub\6426-1822\6426-1822\6426-1822\obj\Debug\netcoreapp3.1\6426-1822.genruntimeconfig.cache

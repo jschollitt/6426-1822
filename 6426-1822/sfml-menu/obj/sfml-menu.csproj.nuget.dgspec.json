@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-menu\\sfml-menu.csproj": {}
+    "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-menu\\sfml-menu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-menu\\sfml-menu.csproj": {
+    "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-menu\\sfml-menu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-menu\\sfml-menu.csproj",
+        "projectUniqueName": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-menu\\sfml-menu.csproj",
         "projectName": "sfml-menu",
-        "projectPath": "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-menu\\sfml-menu.csproj",
-        "packagesPath": "C:\\Users\\jscho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-menu\\obj\\",
+        "projectPath": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-menu\\sfml-menu.csproj",
+        "packagesPath": "C:\\Users\\jschollitt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\sfml-menu\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jscho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jschollitt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

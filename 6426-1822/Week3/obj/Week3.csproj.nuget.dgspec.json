@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\Week3.csproj": {}
+    "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\Week3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\Week3.csproj": {
+    "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\Week3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\Week3.csproj",
+        "projectUniqueName": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\Week3.csproj",
         "projectName": "Week3",
-        "projectPath": "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\Week3.csproj",
-        "packagesPath": "C:\\Users\\jscho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jscho\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\obj\\",
+        "projectPath": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\Week3.csproj",
+        "packagesPath": "C:\\Users\\jschollitt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jschollitt\\OneDrive - Unitec NZ\\Documents\\GitHub\\6426-1822\\6426-1822\\Week3\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jscho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jschollitt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
